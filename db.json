@@ -1,12 +1,9 @@
 {
-  "id":
-  [
-   {
+  "id": {
     "index": 0,   
     "timestamp": 123435456,
     "data": {},
     "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
     "hash": "268551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
-    }
-  ]
+  }
 }
