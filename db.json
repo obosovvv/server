@@ -1,9 +1,50 @@
-{
-  "id": {
-    "index": 0,   
-    "timestamp": 123435456,
-    "data": {},
+[
+  {
+  "data": {
+     "timestamp": 123435456,
     "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
-    "hash": "268551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
-  }
-}
+    "hash": "368551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
+  },  
+  "index": 0,   
+  },
+  {
+  "data": {
+     "timestamp": 123435457,
+    "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
+    "hash": "468551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
+  },  
+  "index": 1,   
+  },
+  {
+  "data": {
+     "timestamp": 123435458,
+    "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
+    "hash": "568551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
+  },  
+  "index": 2,   
+  },
+  {
+  "data": {
+     "timestamp": 123435459,
+    "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
+    "hash": "668551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
+  },  
+  "index": 3,   
+  },
+  {
+  "data": {
+     "timestamp": 1234354510,
+    "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
+    "hash": "768551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
+  },  
+  "index": 4,   
+  },
+  {
+  "data": {
+     "timestamp": 1234354511,
+    "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
+    "hash": "868551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
+  },  
+  "index": 5,   
+  },
+]
