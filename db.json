@@ -4,7 +4,7 @@
       "timestamp": 123435456,
       "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
       "hash": "368551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
-    },  
+      },  
     "index": 0  
   },
   {
@@ -38,13 +38,5 @@
       "hash": "768551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
       },  
       "index": 4   
-  },
-  {
-    "data": {
-      "timestamp": 1234354511,
-      "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
-      "hash": "868551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
-      },  
-     "index": 5   
   }
 ]
