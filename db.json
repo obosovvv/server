@@ -1,10 +1,8 @@
-[
-  {
-    "id": 0,
-    "data": {
-      "timestamp": 123435456,
-      "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
-      "hash": "368551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
-    }
+{
+  "id": 0,
+  "data": {
+    "timestamp": 123435456,
+    "precedingHash": "d68551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5",
+    "hash": "368551f982b43adf4b27164daeb330d47dee8e2bce8795f4afb18a4b636125a5"
   }
-]
+}
